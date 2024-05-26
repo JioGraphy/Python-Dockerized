@@ -1,0 +1,10 @@
+Commands </h2>
+Checks if docker daemon is running 
+"service docker status"
+
+This command builds the Docker image and tags it as simple-python-app.
+"docker build -t simple-python-app:insert_tag_here  -f DockerFile ." 
+
+Use the following command to run the container
+"docker run -p 5000:5000 simple-python-app:insert_tag_here ."
+
