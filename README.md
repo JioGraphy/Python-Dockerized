@@ -5,4 +5,10 @@
 This project is a simple Flask-based Python application deployed using Docker containers. The setup leverages Docker Daemon, WSL (Windows Subsystem for Linux), and Flask to create a seamless development and deployment experience. The goal is to demonstrate how to build, run and deploy application using containerization
 
 
+<h2> Pre-requisites </h2>
+Before you begin, ensure you have the following installed on your machine:
+  WSL 2
+  Docker Desktop/Daemon
+  Dockerhub Account
+
 
