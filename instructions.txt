@@ -1,4 +1,4 @@
-Commands </h2>
+Commands
 Checks if docker daemon is running 
 "service docker status"
 
