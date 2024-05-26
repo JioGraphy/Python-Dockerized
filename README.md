@@ -8,4 +8,10 @@ This project is a simple Flask-based Python application deployed using Docker co
 After following the instructions. You now have a simple Python web application running in a Docker container. This process covered creating a Python app, building, containerizing it with Docker, and optionally push/pull it to or from Docker Hub for distribution.
 
 
+<h2> Pre-requisites </h2>
+Before you begin, ensure you have the following installed on your machine:
+  WSL 2
+  Docker Desktop/Daemon
+  Dockerhub Account
+
 
